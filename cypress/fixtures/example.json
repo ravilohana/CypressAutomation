@@ -1,0 +1,10 @@
+
+{
+  "name": "bob",
+  "email": "bob@cypress.io",
+  "password" : "bob@123",
+  "gender" : "Male",
+  "productName" : ["iphone","Samsung","Nokia","Blackberry"]
+}
+
+
