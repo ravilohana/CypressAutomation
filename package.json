@@ -8,7 +8,9 @@
     "headTest" : "npm test -- --headed",
     "chromeTest" : "npm test -- --brwoser chrome",
     "dashboardTest" : "npm test -- --headed --record --key fe8b8486-a09e-48e1-9b9b-86e8cd764d70 --reporter mochawesome",
-    "frameworkTest" : "npm run test -- --spec   \"cypress/frameworkTest/*\""
+    "frameworkTest" : "npm run test -- --spec   \"cypress/integration/Framework_Stuff/*\""
+
+    
 
   },
   "author": "",
