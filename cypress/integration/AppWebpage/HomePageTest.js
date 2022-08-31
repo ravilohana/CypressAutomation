@@ -3,7 +3,7 @@
 /// < reference types = "Cypress" />
 
 
-import HomePage_Obj_Repo from "../PageObjects/HomePage_Obj_Repo"
+import HomePage_Obj_Repo from "../../support/PageObjects/HomePage_Obj_Repo"
 
 describe('Home Page POM Approach Suite',function(){
     it('automate home Page with Page object',function(){

@@ -46,7 +46,7 @@ describe('iframe handles in cypress Suite',function(){
      })
 
 
-     it.only('globalsqa iframe',function(){
+     it.skip('globalsqa iframe',function(){
 
         cy.on('uncaught:exception', (err, runnable) => { 
             return false
